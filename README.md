@@ -9,12 +9,20 @@ Aunque estoy abierto a las posibilidades, el cambio y las oportunidades dentro d
 
 Actualmente sigo preparándome para ingresar a un ambiente laboral como desarrollador web Full Stack y DevOps en varias formaciones online en diferentes instituciones que ofrecen capacitación en tecnología. 🙌
 
+
+<details>
+<summary>Traslations</summary>
+
+- [Português Brasileiro](./translations/README-pt.md)
+- [English](./translations/README-en.md)
+
+</details>
 <hr>
 
 ## Experiencia: 
 🏢 Actualmente estoy trabajando a tiempo completo con personas increíbles como **Freelancer**:
 - Desempeñando funciones de **Diseñador Web con WordPress** (`Landing y One Page`, `Ecommerce con Woocommerce`, `Mantenimiento web`, `SEO`).
-- Mantenimiento de ecommerce en **Prestasho**.
+- Mantenimiento de ecommerce en **Prestashop**.
 - Desarrollo Front-End **HTML, CSS Y JavaScript**.
 
 <hr>
