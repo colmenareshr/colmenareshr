@@ -1,3 +1,12 @@
+<details>
+<summary>Traslations</summary>
+
+- [Português Brasileiro](./translations/README-pt.md)
+- [English](./translations/README-en.md)
+
+</details>
+<br>
+
 # ¡Hola! Soy Humberto 👋
 
 Soy Desarrollador Full Stack, un poco autodidacta y formado en [@toti-edu](https://github.com/toti-edu) en programación y desarrollo web. Me apasiona la tecnología y hacer que las cosas funcionen, poniendo atención al detalle, siguiendo buenas prácticas y código limpio. 
@@ -10,13 +19,7 @@ Aunque estoy abierto a las posibilidades, el cambio y las oportunidades dentro d
 Actualmente sigo preparándome para ingresar a un ambiente laboral como desarrollador web Full Stack y DevOps en varias formaciones online en diferentes instituciones que ofrecen capacitación en tecnología. 🙌
 
 
-<details>
-<summary>Traslations</summary>
 
-- [Português Brasileiro](./translations/README-pt.md)
-- [English](./translations/README-en.md)
-
-</details>
 <hr>
 
 ## Experiencia: 
